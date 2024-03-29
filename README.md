@@ -163,7 +163,7 @@ Our project stands out for its emphasis on interactive visualizations of job and
 
 #### Source of Inspiration
 
-
+Our inspiration also stems from our personal experiences as master's students actively seeking internships and jobs. We understand the importance of staying informed and making data-driven decisions in the competitive job market landscape. Accessing a website with interactive features would greatly facilitate our job search process. Platforms like Tableau Public and Information is Beautiful serve as prime examples of how interactive data visualizations can empower users to explore data effectively and make informed decisions, further motivating our approach to incorporate similar functionalities in our project.
 
 ## Milestone 2 (26th April, 5pm)
 
