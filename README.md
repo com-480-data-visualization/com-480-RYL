@@ -25,7 +25,7 @@ Please, fill the following sections about your project.
 > Hint: some good pointers for finding quality publicly available datasets ([Google dataset search](https://datasetsearch.research.google.com/), [Kaggle](https://www.kaggle.com/datasets), [OpenSwissData](https://opendata.swiss/en/), [SNAP](https://snap.stanford.edu/data/) and [FiveThirtyEight](https://data.fivethirtyeight.com/)), you could use also the DataSets proposed by the ENAC (see the Announcements section on Zulip).
 
 The dataset we will work on is the “LinkedIn Job Postings - 2023” from Kaggle, reflecting a snapshot into the current job market. 
-(https://www.kaggle.com/datasets/arshkon/linkedin-job-postings/data)
+https://www.kaggle.com/datasets/arshkon/linkedin-job-postings/data
 
 This dataset contains a nearly comprehensive record of 33571 job postings. Each individual posting contains 27 valuable attributes, including the title, job description, salary, location, and work-types etc. In addition, there are separate files on job infomation containing the benefits, skills, and industries, as well as on company related details such as the company description, industries, and specialities.
 
