@@ -107,7 +107,7 @@ The exploration of the dataset is facilitated through visualizations, offering i
 
 ![frequency](https://github.com/com-480-data-visualization/com-480-RYL/assets/63165737/e8e2c409-2283-4c33-b2a2-5c1735de07e2)
 
-7. **Performing Salary Analysis by Skill:**
+6. **Performing Salary Analysis by Skill:**
    - A bar plot visualizes the total salary attributed to each skill, offering insights into the contribution of different skills to overall salary distribution.
 ![total_salary](https://github.com/com-480-data-visualization/com-480-RYL/assets/63165737/14c48f13-976e-4cfb-8aef-165e180a8928)
 
