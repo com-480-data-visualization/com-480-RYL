@@ -31,6 +31,11 @@ Over the course of two separate days, months apart, this dataset captures over 3
 
 Moreover, it establishes connections between job postings and specific companies, enabling exploration into various attributes such as company descriptions, headquarters locations, and follower counts on LinkedIn. Additionally, the dataset captures temporal dimensions, including the listing times of jobs and recording times of employee and follower counts, offering avenues for analyzing temporal trends within the job market and corporate landscape.
 
+For the data preprocessing, 
+- There are missing values in various attributes such as salary, benefits, or job descriptions, which need to be addressed to ensure data integrity. 
+- Dealing with outliers in the data is required to prevent skewing of analysis and visualization results, or perform specific analyses on outliers.
+- Data merging is needed for a more complete view of the data and convenient processing of the data.
+
 ### Problematic
 
 > Frame the general topic of your visualization and the main axis that you want to develop.
