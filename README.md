@@ -37,7 +37,7 @@ Please, fill the following sections about your project.
 
 Data Preprocessing
 
-1. Datasets Loaded: job_postings, benefits, job_industries, job_skills, companies, employee_counts, company_industries, company_specialities, industries.
+1. Loading Datasets: job_postings, benefits, job_industries, job_skills, companies, employee_counts, company_industries, company_specialities, industries.
 2. Merging Datasets: The job-related datasets were merged based on job_id while company-related datasets were merged based on company_id, and finally we merged job postings and company data together and we have data about company that post jobs on linkedIn.
 3. Handling Missing Data: For missing data in categorical columns, it filled with "Unknown", numerical columns with zeros, descriptive columns with "Not specified", and filled with "Open" if no closing time is specified for 'closed_time' column.
 
