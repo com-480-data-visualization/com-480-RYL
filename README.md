@@ -156,10 +156,10 @@ By combining thorough data preprocessing with insightful visualizations, this ex
 > - In case you are using a dataset that you have already explored in another context (ML or ADA course, semester project...), you are required to share the report of that work to outline the differences with the submission for this class.
 
 #### What others have already done with the data?
-There is currently some analysis and visualisation based on this dataset in [Kaggle](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings/code), however, the visualisation results are rather basic, mainly for the descriptive analysis of the job and company information, such as the distribution of company size and salary, the top 10 most frequent job titles, and the top 10 skills in-demand.
+There is currently some analysis and visualisation based on this dataset in [Kaggle](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings/code), however, the results are rather basic and only provide static visualizations, mainly for the descriptive analysis of the job and company information, such as the distribution of company size and salary, the top 10 most frequent job titles, and the top 10 skills in-demand.
 
 #### Why is your approach original?
-Our project stands out for its emphasis on interactive visualizations of job and company-related data. By prioritizing interactivity, we aim to provide users with a more engaging and enriching experience, allowing them to explore the data dynamically.  We will also provide a search function based on the attributes of interest to provide viewers with a more efficient display of the information.
+Our project stands out for its emphasis on interactive visualizations of job and company-related data. By prioritizing interactivity, we aim to provide users with a more engaging and enriching experience, allowing them to dynamically interact with and explore the data.  We will also provide a search function based on the attributes of interest to provide viewers with a more efficient display of the information.
 
 #### Source of Inspiration
 
