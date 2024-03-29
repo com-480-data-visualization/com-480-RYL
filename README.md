@@ -29,13 +29,6 @@ https://www.kaggle.com/datasets/arshkon/linkedin-job-postings/data
 
 This dataset contains a nearly comprehensive record of 33571 job postings. Each individual posting contains 27 valuable attributes, including the title, job description, salary, location, and work-types etc. In addition, there are separate files on job infomation containing the benefits, skills, and industries, as well as on company related details such as the company description, industries, and specialities.
 
-For the data preprocessing, 
-- There are missing values in various attributes such as salary, benefits, or job descriptions, which need to be addressed to ensure data integrity. 
-- Dealing with outliers in the data is required to prevent skewing of analysis and visualization results, or perform specific analyses on outliers.
-- Data merging is needed for a more complete view of the data and convenient processing of the data.
-
-In addition to these general preprocessing steps, further analysis of the dataset's specific characteristics and quality will determine the exact processing procedures required.
-
 
 ### Problematic
 
