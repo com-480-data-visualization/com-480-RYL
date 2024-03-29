@@ -141,6 +141,10 @@ By combining thorough data preprocessing with insightful visualizations, this ex
 > - What source of inspiration do you take? Visualizations that you found on other websites or magazines (might be unrelated to your data).
 > - In case you are using a dataset that you have already explored in another context (ML or ADA course, semester project...), you are required to share the report of that work to outline the differences with the submission for this class.
 
+There are currently some analysis and visualisation based on this dataset in [Kaggle](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings/code), however, the visualisation results are rather basic, mainly for the descriptive analysis of the job and company information, such as the distribution of company size and salary, the top 10 most frequent job titles, and the top 10 skills in-demand.
+
+The originality of our project is to build interactive visualisation of job and company related data, in order to provide job seekers, employers and researchers with a more global, enriching view and intuitive visualisation of the information. We will also provide a search function based on the attributes of interest to provide viewers with a more efficient display of information.
+
 ## Milestone 2 (26th April, 5pm)
 
 **10% of the final grade**
