@@ -42,9 +42,17 @@ For the data preprocessing,
 > - What am I trying to show with my visualization?
 > - Think of an overview for the project, your motivation, and the target audience.
 
-#### Overview
+#### Overview:
+This project aim to develops a prototype website using the LinkedIn Job Postings - 2023 dataset and to provide comprehensive insights into the job market landscape based on LinkedIn job postings data from 2023.  The platform aims to offer users intuitive visualizations to navigate the job market landscape effectively.
 
-The project aims to provide comprehensive insights into the job market landscape based on LinkedIn job postings data from 2023. The motivation behind the project is to explore patterns in the current job seeking and employment-focused factors, empower individuals with data-driven insights to make informed decisions regarding job searches, career paths, and recruitment strategies. By analyzing various attributes such as job titles, industries, locations, salaries, skills, and company profiles, the visualization will offer valuable information for job seekers, employers, and researchers exploring employment patterns and trends. 
+#### Motivation:
+The motivation behind the project is to explore patterns in the current job seeking and employment-focused factors, empower individuals with data-driven insights to make informed decisions regarding job searches, career paths, and recruitment strategies. By analyzing various attributes such as job titles, industries, locations, salaries, skills, and company profiles, the visualization will offer valuable information for job seekers, employers, and researchers exploring employment patterns and trends.
+
+#### Target Audience:
+The target audience for this project includes:
+- Job seekers looking for career opportunities and insights into the job market landscape. (potential for real-time data).
+- Recruiters and hiring managers seeking talent and industry trends for strategic recruitment. (potential for real-time data).
+- Researchers and analysts interested in studying employment patterns, salary trends, and skill demands.
 
 #### Main visualisation aspects
 
