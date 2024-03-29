@@ -47,16 +47,36 @@ For the data preprocessing,
 The project aims to provide comprehensive insights into the job market landscape based on LinkedIn job postings data from 2023. The motivation behind the project is to explore patterns in the current job seeking and employment-focused factors, empower individuals with data-driven insights to make informed decisions regarding job searches, career paths, and recruitment strategies. By analyzing various attributes such as job titles, industries, locations, salaries, skills, and company profiles, the visualization will offer valuable information for job seekers, employers, and researchers exploring employment patterns and trends. 
 
 #### Main visualisation aspects
-- **Trends in Job Market**: Analyzing the distribution of job postings across different industries, locations, and job types to identify trends and patterns in the job market for the year 2023.
 
-- **Salary Insights**: Exploring the salary distribution across different job titles, industries, and locations to provide insights into earning potentials.
+1. **Trend Analysis Dashboard:**
+   - **Objective:** Provide an interactive dashboard illustrating trends in job postings across industries, locations, and job types.
+   - **Features:**
+     - Dynamic visualizations to identify emerging patterns and market trends.
+     - Filters for refining data based on industry, location, and job type.
 
-- **Skill Demands**: Identifying the most in-demand skills by analyzing the skill requirements mentioned in job postings.
+2. **Salary Insights Tool:**
+   - **Objective:** Offer a user-friendly tool for visualizing salary distributions across diverse job titles, industries, and geographical regions.
+   - **Features:**
+     - Interactive charts and graphs for comparing earning potentials.
+     - Filters to customize salary data by job title, industry, and location.
 
-- **Company Profiles**: Providing a visual overview of companies including their size, locations, and industries they operate in. Visualise the location distribution of companies in different industries and salary levels, helping candidates to orientate their job search.
+3. **Skill Demand Visualization Module:**
+   - **Objective:** Visualize the most in-demand skills extracted from job postings to aid in skill development and career planning.
+   - **Features:**
+     - Visualizations showcasing skill requirements across different roles and industries.
+     - Skill mapping to highlight relevant skills for specific job roles.
 
-- **Job Description Analysis**: Analyzing job descriptions to extract and visualize key phrases, requirements, and responsibilities associated with different roles.
+4. **Company Profiles Section:**
+   - **Objective:** Provide visually engaging profiles of companies, including size, geographical presence, and industry sectors.
+   - **Features:**
+     - Company profiles with key attributes such as size, location, and industry sector.
+     - Interactive maps displaying the geographical distribution of companies.
 
+5. **Job Description Visualization Feature:**
+   - **Objective:** Visualize job descriptions to highlight key phrases, requirements, and responsibilities associated with different roles.
+   - **Features:**
+     - Visual representations of job descriptions for enhanced understanding.
+     - Keyword extraction tools to identify important phrases and requirements.
 
 ### Exploratory Data Analysis
 
