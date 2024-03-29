@@ -74,18 +74,6 @@ After pre-processing the data, we have 33246 unique job postings with 43 columns
 
 Here are some basic statics regarding the data which will be useful for next steps of final visualization.
 
-<img width="698" alt="截屏2024-03-29 12 52 42" src="https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/7062ef8c-989d-430b-9a51-0d88d8523317">
-
-This plot is used to show the distribution of different company sizes in the merged_post dataset.
-
-<img width="1062" alt="截屏2024-03-29 13 01 08" src="https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/98c9b72e-9539-4157-82e0-c56ea580845a">
-
-This bar chart is visualizing the distribution of jobs by their work type within the merged_post dataset.
-
-<img width="879" alt="截屏2024-03-29 13 02 15" src="https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/11e5bf14-64f0-4e08-8043-8385de69d73b">
-
-This section is used to visualize the top 10 companies with the highest number of job postings within the merged_post dataset, where each bar represents one of the top 10 companies, and the height of the bar indicates the number of job postings by that company. 
-
 
 
 
