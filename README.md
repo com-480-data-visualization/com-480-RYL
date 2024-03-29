@@ -45,6 +45,8 @@ After pre-processing the data, we have 33246 unique job postings with 43 columns
 
 Here are some basic statics regarding the data which will be useful for next steps of final visualization.
 
+<img width="698" alt="截屏2024-03-29 12 52 42" src="https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/7062ef8c-989d-430b-9a51-0d88d8523317">
+
 
 
 ### Related work
