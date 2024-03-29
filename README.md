@@ -74,7 +74,22 @@ After pre-processing the data, we have 33246 unique job postings with 43 columns
 
 Here are some basic statics regarding the data which will be useful for next steps of final visualization.
 
+![map](https://github.com/com-480-data-visualization/com-480-RYL/assets/63165737/76ac77e5-8b55-45e9-a4af-1486a0b9ca58)
 
+
+![salaries](https://github.com/com-480-data-visualization/com-480-RYL/assets/63165737/4bec209d-2f8d-4a4a-8c87-c749f2ac0202)
+
+
+
+![experience_level](https://github.com/com-480-data-visualization/com-480-RYL/assets/63165737/613b905c-0f92-4b0c-bbe7-bf18d3fea0df)
+
+
+
+![frequency](https://github.com/com-480-data-visualization/com-480-RYL/assets/63165737/e8e2c409-2283-4c33-b2a2-5c1735de07e2)
+
+
+
+![total_salary](https://github.com/com-480-data-visualization/com-480-RYL/assets/63165737/14c48f13-976e-4cfb-8aef-165e180a8928)
 
 
 ### Related work
