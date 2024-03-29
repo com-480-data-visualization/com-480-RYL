@@ -35,6 +35,18 @@ Please, fill the following sections about your project.
 > Pre-processing of the data set you chose
 > - Show some basic statistics and get insights about the data
 
+Data Preprocessing
+
+1. Datasets Loaded: job_postings, benefits, job_industries, job_skills, companies, employee_counts, company_industries, company_specialities, industries.
+2. Merging Datasets: The job-related datasets were merged based on job_id while company-related datasets were merged based on company_id, and finally we merged job postings and company data together and we have data about company that post jobs on linkedIn.
+3. Handling Missing Data: For missing data in categorical columns, it filled with "Unknown", numerical columns with zeros, descriptive columns with "Not specified", and filled with "Open" if no closing time is specified for 'closed_time' column.
+
+After pre-processing the data, we have 33246 unique job postings with 43 columns for describing the job position, including company name, pay period, formatted work type, location, remote allowed, job posting url, application url, application type and closed time, etc.
+
+Here are some basic statics regarding the data which will be useful for next steps of final visualization.
+
+
+
 ### Related work
 
 
