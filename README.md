@@ -43,6 +43,22 @@ In addition to these general preprocessing steps, further analysis of the datase
 > - What am I trying to show with my visualization?
 > - Think of an overview for the project, your motivation, and the target audience.
 
+#### Overview
+
+The project aims to provide comprehensive insights into the job market landscape based on LinkedIn job postings data from 2023. The motivation behind the project is to explore patterns in the current job seeking and employment-focused factors, empower individuals with data-driven insights to make informed decisions regarding job searches, career paths, and recruitment strategies. By analyzing various attributes such as job titles, industries, locations, salaries, skills, and company profiles, the visualization will offer valuable information for job seekers, employers, and researchers exploring employment patterns and trends. 
+
+#### Main visualisation aspects
+- **Trends in Job Market**: Analyzing the distribution of job postings across different industries, locations, and job types to identify trends and patterns in the job market for the year 2023.
+
+- **Salary Insights**: Exploring the salary distribution across different job titles, industries, and locations to provide insights into earning potentials.
+
+- **Skill Demands**: Identifying the most in-demand skills by analyzing the skill requirements mentioned in job postings.
+
+- **Company Profiles**: Providing a visual overview of companies including their size, locations, and industries they operate in. Visualise the location distribution of companies in different industries and salary levels, helping candidates to orientate their job search.
+
+- **Job Description Analysis**: Analyzing job descriptions to extract and visualize key phrases, requirements, and responsibilities associated with different roles.
+
+
 ### Exploratory Data Analysis
 
 > Pre-processing of the data set you chose
