@@ -64,33 +64,55 @@ The project aims to provide comprehensive insights into the job market landscape
 > Pre-processing of the data set you chose
 > - Show some basic statistics and get insights about the data
 
-Data Preprocessing
+In the initial phase of data exploration and preprocessing, the dataset from job postings undergoes several crucial steps to ensure its quality and suitability for analysis.
 
-1. Loading Datasets: job_postings, benefits, job_industries, job_skills, companies, employee_counts, company_industries, company_specialities, industries.
-2. Merging Datasets: The job-related datasets were merged based on job_id while company-related datasets were merged based on company_id, and finally we merged job postings and company data together and we have data about company that post jobs on linkedIn.
-3. Handling Missing Data: For missing data in categorical columns, it filled with "Unknown", numerical columns with zeros, descriptive columns with "Not specified", and filled with "Open" if no closing time is specified for 'closed_time' column.
+#### Data Preprocessing:
 
-After pre-processing the data, we have 33246 unique job postings with 43 columns for describing the job position, including company_name, pay_period, formatted_work_type, location, remote_allowed, job_posting_url, application_url, application_type and closed_time, etc.
+The preprocessing phase encompasses a series of essential steps:
 
-Here are some basic statics regarding the data which will be useful for next steps of final visualization.
+1. **Basic Preprocessing:**
+   - Initial cleaning and formatting of the dataset are performed. This includes handling missing values, removing duplicates, and standardizing data types to ensure data integrity and consistency.
 
-![map](https://github.com/com-480-data-visualization/com-480-RYL/assets/63165737/76ac77e5-8b55-45e9-a4af-1486a0b9ca58)
+2. **Merging Data:**
+   - Datasets from various sources are merged to consolidate related information. This enrichment process combines job postings with salary data, company details, or skill requirements to create a comprehensive dataset for analysis.
 
+3. **Handling Missing Values in Salary Data:**
+   - To address missing values in salary data, a multi-step approach is adopted. The dataset is grouped by job title and work type to calculate median salaries for similar positions. These medians serve as reliable estimates for missing values, ensuring accuracy in the imputation process. Additionally, skew-normal distributions are fitted to observed salary data, and random values are generated from these distributions to fill missing entries, providing a comprehensive approach to handling missing values.
+
+#### Visualizations:
+
+The exploration of the dataset is facilitated through visualizations, offering insights into various aspects of the job market and company landscape:
+
+1. **Salary Statistics:**
+   - A point plot visualizes median, maximum, and minimum salaries across different metrics, providing a comprehensive overview of salary statistics within the dataset.
 
 ![salaries](https://github.com/com-480-data-visualization/com-480-RYL/assets/63165737/4bec209d-2f8d-4a4a-8c87-c749f2ac0202)
 
+2. **Mapping Most Frequent Job Postings:**
+   - A scatter plot overlaid on a map showcases the top 150 locations with the highest frequency of job postings in North and South America, with red bubbles representing locations and size indicating the frequency of job postings.
+   
+![map](https://github.com/com-480-data-visualization/com-480-RYL/assets/63165737/76ac77e5-8b55-45e9-a4af-1486a0b9ca58)
 
+3. **Top Posting Domains:**
+   - A bar plot illustrates the top 10 posting domains with the highest number of job postings, providing insights into the most active domains in the job market.
+   
+![domains](https://github.com/com-480-data-visualization/com-480-RYL/assets/63165737/87d34b0a-7f28-4fa4-8af7-159ed9959812)
+
+4. **Distribution of Job Postings by Experience Level:**
+   - Presented through a pie chart, this visualization highlights the distribution of job postings by experience level, offering a quick understanding of the demand for various levels of expertise.
 
 ![experience_level](https://github.com/com-480-data-visualization/com-480-RYL/assets/63165737/613b905c-0f92-4b0c-bbe7-bf18d3fea0df)
 
-
+5. **Company Overview:**
+   - A scatter plot illustrates job postings by company size and city location, focusing on specific company sizes and cities. Each point represents a combination of company size and city, with point size indicating the number of job postings.
 
 ![frequency](https://github.com/com-480-data-visualization/com-480-RYL/assets/63165737/e8e2c409-2283-4c33-b2a2-5c1735de07e2)
 
-
-
+7. **Performing Salary Analysis by Skill:**
+   - A bar plot visualizes the total salary attributed to each skill, offering insights into the contribution of different skills to overall salary distribution.
 ![total_salary](https://github.com/com-480-data-visualization/com-480-RYL/assets/63165737/14c48f13-976e-4cfb-8aef-165e180a8928)
 
+By combining thorough data preprocessing with insightful visualizations, this exploratory analysis lays the groundwork for deeper insights into the job market landscape and salary trends.
 
 ### Related work
 
