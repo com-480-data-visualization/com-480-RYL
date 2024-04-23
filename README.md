@@ -169,12 +169,13 @@ Our inspiration also stems from our personal experiences as master's students ac
 
 **10% of the final grade**
 
+Here are several simple sketches to explain the key visualizations for the project:
+
 
 ## Milestone 3 (31st May, 5pm)
 
 **80% of the final grade**
 
-Here are several simple sketches to explain the key visualizations for the project:
 
 
 
