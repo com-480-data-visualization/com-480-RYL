@@ -174,6 +174,10 @@ Our inspiration also stems from our personal experiences as master's students ac
 
 **80% of the final grade**
 
+Here are several simple sketches to explain the key visualizations for the project:
+
+
+
 
 ## Late policy
 
