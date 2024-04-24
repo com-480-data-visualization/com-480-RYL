@@ -179,6 +179,7 @@ Here are several sketches to explain the main visualizations for the project:
 
 2. **Visulization: Basic overview of datasets**
    Each card in Figure 1 below represents the visualizations for each dataset:
+
 *Posting Card:*
 This card contains a pie chart, which is a common way to represent parts of a whole. Different pie chart segments represent different expected experience levels in LinkedIn job postings. Users can interact with this pie chart by hovering over the segments to get more details such as the exact number or percentage of job postings in each category.
 
