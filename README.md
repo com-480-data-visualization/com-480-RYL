@@ -173,14 +173,24 @@ Here are several sketches to explain the main visualizations for the project:
 
 1. **Visualization 1: Searchable Job Posting Table**
 
-   The first and core visualization of the project is Searchable Job Posting Table, allowing users to access to the table with job postings that match the filters applied. Columns include the job title, company name, location, salary range, and a brief description. Users can click on a job title to get more details, sort the table by any of the column headings, and use a search bar to refine the results within the filtered subset further.
+   The first and core visualization of the project is Searchable Job Posting Table, allowing users to access the table with job postings that match the filters applied. Columns include the job title, company name, location, salary range, and a brief description. Users can click on a job title to get more details, sort the table by any of the column headings, and use a search bar to refine the results within the filtered subset further.
 
    ![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/7a99b94c-c6c3-461d-9863-bc82c3cad3f1)
 
+2. **Visulization: Basic overview of datasets**
+   Each card in Figure 1 below represents the visualizations for each dataset:
+*Posting Card:*
+This card contains a pie chart, which is a common way to represent parts of a whole. Different pie chart segments represent different expected experience levels in LinkedIn job postings. Users can interact with this pie chart by hovering over the segments to get more details such as the exact number or percentage of job postings in each category.
+
+*Company Card:*
+Each bubble in the bubble chart represents one of the top 10 companies, placed on a grid that aligns company names on the y-axis and their respective industries on the x-axis. The size of each bubble appears to correspond to the company's size, presumably based on metrics such as revenue, market capitalization, or number of employees.
+
+*Job Card:*
+The pie chart would show segments representing the distribution of benefit types, with the size of each segment corresponding to how frequently each benefit is offered in the dataset. When users clicking each segment, the job postings offering that benefit would appear, giving them a quick and clear understanding of the benefits landscape.
+
+![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/1e1d427f-40cf-47b6-925a-f19bb7c52a23)
+
 3. 
-
-
-
 
 ## Milestone 3 (31st May, 5pm)
 
