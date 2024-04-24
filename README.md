@@ -169,7 +169,16 @@ Our inspiration also stems from our personal experiences as master's students ac
 
 **10% of the final grade**
 
-Here are several simple sketches to explain the key visualizations for the project:
+Here are several sketches to explain the main visualizations for the project:
+
+1. **Visualization 1: Searchable Job Posting Table**
+   The first and core visualization of the project is Searchable Job Posting Table, allowing users to access to the table with job postings that match the filters applied. Columns include the job title, company name, location, salary range, and a brief description. Users can click on a job title to get more details, sort the table by any of the column headings, and use a search bar to refine the results within the filtered subset further.
+
+   ![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/7a99b94c-c6c3-461d-9863-bc82c3cad3f1)
+
+2. 
+
+
 
 
 ## Milestone 3 (31st May, 5pm)
