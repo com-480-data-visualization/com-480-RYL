@@ -178,6 +178,7 @@ Here are several sketches to explain the main visualizations for the project:
    ![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/7a99b94c-c6c3-461d-9863-bc82c3cad3f1)
 
 2. **Visulization: Basic overview of datasets**
+
    Each card in Figure 1 below represents the visualizations for each dataset:
 
 *Posting Card:*
