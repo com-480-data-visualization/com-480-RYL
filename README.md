@@ -168,6 +168,7 @@ Our inspiration also stems from our personal experiences as master's students ac
 ## Milestone 2 (26th April, 5pm)
 
 **10% of the final grade**
+Link to the website
 
 Here are several sketches to explain the main visualizations for the project:
 
@@ -177,7 +178,7 @@ Here are several sketches to explain the main visualizations for the project:
 
    ![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/7a99b94c-c6c3-461d-9863-bc82c3cad3f1)
 
-2. **Visulization: Basic Overview of Datasets**
+2. **Visulization: Basic overview of datasets**
 
 Each card in second Figure represents the visualizations for each dataset:
 
@@ -194,29 +195,45 @@ The pie chart would show segments representing the distribution of benefit types
 
 3. **Visulization: Job Postings Map**
 
-The third goal of the project is to allow users can zoom in a particular region on the map to explore job postings in that area. Here is how uses to can interact with:
+The third goal of the project is to allow users can zoom in a particular region on the map to explore job postings in that area. The following interactions can be imagine:
 
+*Zoom in
+Users can zoom in on the map to see more details. This can reveal more cities, smaller areas, or additional information about job postings.
 
+*Hover: Hovering over a hexagon can display a tooltip with more detailed information, such as the exact number of job postings, the most popular industries, or the average salary range for that location.
 
+*Click: Clicking on a hexagon will drill down to a more detailed view of job postings in that area or open a sidebar with a list of available jobs, companies posting jobs, and other statistics.
 
+*Filter: Users can use the filters in the left panel to refine the data displayed on the map. For example, selecting a specific industry would update the map to show only job postings related to that industry.
 
 ![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/6ba457b0-8b92-4f46-ada6-4c435885b1ea)
 
-
-
-
-
-
-
-
-
-4. Trends in Job Postings over Time
+4. **Visualization: Trends in job postings over time**
 
 The third visualizaiton focuses on the change in the number of job postings over a period, and each line represents a different skill, industry, or benefit category, showing how demand for these has fluctuated with time. If user clicks on a line, it filters the chart to only show the trend for that skill, industry, or benefit, allowing for a focused view.
 
 ![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/48236bb1-84ae-4564-9b5e-a6de25899701)
 
-5. 
+5. **Visualization: How different skills relate to various industries and specialties**
+
+The last visualizaition as shown in the figure below, illustrating ...
+
+![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/462d6c42-419f-4ec4-84fb-53fb9351cab5)
+
+
+
+**Tools**
+d3.js: A JavaScript library for creating dynamic, interactive charts and data visualizations.
+Figma: 
+Boostrap: A front-end framework for rapid, responsive development of web pages
+leaflet: A JavaScript library for creating interactive maps.
+jQuery: A JavaScript library to improve development efficiency and code maintainability.
+Python: Data processing for further data visualization.
+
+**Lectures**
+
+
+
 
 
 ## Milestone 3 (31st May, 5pm)
