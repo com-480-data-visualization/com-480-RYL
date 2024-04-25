@@ -242,6 +242,8 @@ The last visualization illustrates how different skills relate to various indust
 
 ### Lectures
 
+
+### Website [link](https://lukast99.github.io/mileston2.github.io/)
 ### Extra ideas
 
 The proposed enhancements for the website include:
