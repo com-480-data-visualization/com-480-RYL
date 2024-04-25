@@ -169,7 +169,7 @@ Our inspiration also stems from our personal experiences as master's students ac
 
 **10% of the final grade**
 
-Link to the website
+### [Website](https://lukast99.github.io/mileston2.github.io/)
 
 ### Sketches of initial visualization
 
@@ -243,7 +243,6 @@ The last visualization illustrates how different skills relate to various indust
 ### Lectures
 
 
-### Website [link](https://lukast99.github.io/mileston2.github.io/)
 ### Extra ideas
 
 The proposed enhancements for the website include:
