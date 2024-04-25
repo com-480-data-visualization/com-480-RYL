@@ -169,7 +169,7 @@ Our inspiration also stems from our personal experiences as master's students ac
 
 **10% of the final grade**
 
-### [Website](https://lukast99.github.io/mileston2.github.io/)
+### [Website Milestone 2](https://lukast99.github.io/mileston2.github.io/)
 
 ### Sketches of initial visualization
 
