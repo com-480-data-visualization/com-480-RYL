@@ -201,15 +201,15 @@ The third goal of the project is to allow users can zoom in a particular region 
 
 Users can zoom in on the map to see more details. This can reveal more cities, smaller areas, or additional information about job postings.
 
-●Hover
+● Hover
 
 Hovering over a hexagon can display a tooltip with more detailed information, such as the exact number of job postings, the most popular industries, or the average salary range for that location.
 
-●Click
+● Click
 
 Clicking on a hexagon will drill down to a more detailed view of job postings in that area or open a sidebar with a list of available jobs, companies posting jobs, and other statistics.
 
-●Filter
+● Filter
 
 Users can use the filters in the left panel to refine the data displayed on the map. For example, selecting a specific industry would update the map to show only job postings related to that industry.
 
