@@ -179,7 +179,7 @@ Here are several sketches to explain the main visualizations for the project:
 
    ![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/7a99b94c-c6c3-461d-9863-bc82c3cad3f1)
 
-2. **Visulization: Basic overview of datasets**
+2. **Visulization 2: Basic overview of datasets**
 
 Each card in second Figure represents the visualizations for each dataset:
 
@@ -194,7 +194,7 @@ The pie chart would show segments representing the distribution of benefit types
 
 ![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/1e1d427f-40cf-47b6-925a-f19bb7c52a23)
 
-3. **Visulization: Job Postings Map**
+3. **Visulization 3: Job Postings Map**
 
 The third goal of the project is to allow users can zoom in a particular region on the map to explore job postings in that area. The following interactions can be imagine:
 
@@ -216,13 +216,13 @@ Users can use the filters in the left panel to refine the data displayed on the 
 
 ![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/6ba457b0-8b92-4f46-ada6-4c435885b1ea)
 
-4. **Visualization: Trends in job postings over time**
+4. **Visualization 4: Trends in job postings over time**
 
 The third visualizaiton focuses on the change in the number of job postings over a period, and each line represents a different skill, industry, or benefit category, showing how demand for these has fluctuated with time. If user clicks on a line, it filters the chart to only show the trend for that skill, industry, or benefit, allowing for a focused view.
 
 ![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/48236bb1-84ae-4564-9b5e-a6de25899701)
 
-5. **Visualization: How different skills relate to various industries and specialties**
+5. **Visualization 5: How different skills relate to various industries and specialties**
 
 The last visualization illustrates how different skills relate to various industries and specialties. As the figure shows, the width of the bands connecting these categories represents the volume from one category to another. For example, a wide band flowing from "Master's" to "Government-State" and then converging on "Nurse" suggests that a significant number of individuals with a Master's degree are employed in the Government-State sector as Nurses. Users could hover over the flows to see additional information, such as the percentage of each of the skills required for a particular industry, what kind of skills come from individuals in a certain position, and in what proportion. There also could be interactive filters that allow users to refine the diagram by skill level, industry sector, or specialty.
 
