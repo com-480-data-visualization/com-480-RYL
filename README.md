@@ -177,22 +177,46 @@ Here are several sketches to explain the main visualizations for the project:
 
    ![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/7a99b94c-c6c3-461d-9863-bc82c3cad3f1)
 
-2. **Visulization: Basic overview of datasets**
+2. **Visulization: Basic Overview of Datasets**
 
-   Each card in Figure 1 below represents the visualizations for each dataset:
+Each card in second Figure represents the visualizations for each dataset:
 
 *Posting Card:*
 This card contains a pie chart, which is a common way to represent parts of a whole. Different pie chart segments represent different expected experience levels in LinkedIn job postings. Users can interact with this pie chart by hovering over the segments to get more details such as the exact number or percentage of job postings in each category.
 
 *Company Card:*
-Each bubble in the bubble chart represents one of the top 10 companies, placed on a grid that aligns company names on the y-axis and their respective industries on the x-axis. The size of each bubble appears to correspond to the company's size, presumably based on metrics such as revenue, market capitalization, or number of employees.
+Each bubble in the bubble chart represents one of the top 10 companies, placed on a grid that aligns company names on the y-axis and their respective industries on the x-axis. The size of each bubble appears to correspond to the company's size. Moving the cursor over a bubble enabe users to see a tooltip with more detailed information, such as exact company size, country, and number of employees.
 
 *Job Card:*
 The pie chart would show segments representing the distribution of benefit types, with the size of each segment corresponding to how frequently each benefit is offered in the dataset. When users clicking each segment, the job postings offering that benefit would appear, giving them a quick and clear understanding of the benefits landscape.
 
 ![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/1e1d427f-40cf-47b6-925a-f19bb7c52a23)
 
-3. 
+3. **Visulization: Job Postings Map**
+The third goal of the project is to allow users can zoom in a particular region on the map to explore job postings in that area. Here is how uses to can interact with:
+
+
+
+
+
+![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/6ba457b0-8b92-4f46-ada6-4c435885b1ea)
+
+
+
+
+
+
+
+
+
+4. Trends in Job Postings over Time
+
+The third visualizaiton focuses on the change in the number of job postings over a period, and each line represents a different skill, industry, or benefit category, showing how demand for these has fluctuated with time. If user clicks on a line, it filters the chart to only show the trend for that skill, industry, or benefit, allowing for a focused view.
+
+![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/48236bb1-84ae-4564-9b5e-a6de25899701)
+
+5. 
+
 
 ## Milestone 3 (31st May, 5pm)
 
