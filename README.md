@@ -197,19 +197,19 @@ The pie chart would show segments representing the distribution of benefit types
 
 The third goal of the project is to allow users can zoom in a particular region on the map to explore job postings in that area. The following interactions can be imagine:
 
-- **Zoom in:**
+- **Zoom in**
 
 Users can zoom in on the map to see more details. This can reveal more cities, smaller areas, or additional information about job postings.
 
-- **Hover:**
+- **Hover**
 
 Hovering over a hexagon can display a tooltip with more detailed information, such as the exact number of job postings, the most popular industries, or the average salary range for that location.
 
-- **Click:**
+- **Click**
 
 Clicking on a hexagon will drill down to a more detailed view of job postings in that area or open a sidebar with a list of available jobs, companies posting jobs, and other statistics.
 
-- **Filter:**
+- **Filter**
 
 Users can use the filters in the left panel to refine the data displayed on the map. For example, selecting a specific industry would update the map to show only job postings related to that industry.
 
@@ -223,10 +223,9 @@ The third visualizaiton focuses on the change in the number of job postings over
 
 5. **Visualization: How different skills relate to various industries and specialties**
 
-The last visualizaition as shown in the figure below, illustrating ...
+The last visualization illustrates how different skills relate to various industries and specialties. As the figure shows, the width of the bands connecting these categories represents the volume from one category to another. For example, a wide band flowing from "Master's" to "Government-State" and then converging on "Nurse" suggests that a significant number of individuals with a Master's degree are employed in the Government-State sector as Nurses. Users could hover over the flows to see additional information, such as the percentage of each of the skills required for a particular industry, what kind of skills come from individuals in a certain position, and in what proportion. There also could be interactive filters that allow users to refine the diagram by skill level, industry sector, or specialty.
 
 ![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/462d6c42-419f-4ec4-84fb-53fb9351cab5)
-
 
 
 **Tools:**
@@ -240,8 +239,7 @@ Python: Data processing for further data visualization.
 
 **Lectures:**
 
-
-
+**Extra ideas:**
 
 
 ## Milestone 3 (31st May, 5pm)
