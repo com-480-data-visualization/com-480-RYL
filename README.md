@@ -197,14 +197,21 @@ The pie chart would show segments representing the distribution of benefit types
 
 The third goal of the project is to allow users can zoom in a particular region on the map to explore job postings in that area. The following interactions can be imagine:
 
-*Zoom in
+● Zoom in
+
 Users can zoom in on the map to see more details. This can reveal more cities, smaller areas, or additional information about job postings.
 
-*Hover: Hovering over a hexagon can display a tooltip with more detailed information, such as the exact number of job postings, the most popular industries, or the average salary range for that location.
+●Hover
 
-*Click: Clicking on a hexagon will drill down to a more detailed view of job postings in that area or open a sidebar with a list of available jobs, companies posting jobs, and other statistics.
+Hovering over a hexagon can display a tooltip with more detailed information, such as the exact number of job postings, the most popular industries, or the average salary range for that location.
 
-*Filter: Users can use the filters in the left panel to refine the data displayed on the map. For example, selecting a specific industry would update the map to show only job postings related to that industry.
+●Click
+
+Clicking on a hexagon will drill down to a more detailed view of job postings in that area or open a sidebar with a list of available jobs, companies posting jobs, and other statistics.
+
+●Filter
+
+Users can use the filters in the left panel to refine the data displayed on the map. For example, selecting a specific industry would update the map to show only job postings related to that industry.
 
 ![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/6ba457b0-8b92-4f46-ada6-4c435885b1ea)
 
@@ -222,7 +229,8 @@ The last visualizaition as shown in the figure below, illustrating ...
 
 
 
-**Tools**
+**Tools:**
+
 d3.js: A JavaScript library for creating dynamic, interactive charts and data visualizations.
 Figma: 
 Boostrap: A front-end framework for rapid, responsive development of web pages
@@ -230,7 +238,7 @@ leaflet: A JavaScript library for creating interactive maps.
 jQuery: A JavaScript library to improve development efficiency and code maintainability.
 Python: Data processing for further data visualization.
 
-**Lectures**
+**Lectures:**
 
 
 
