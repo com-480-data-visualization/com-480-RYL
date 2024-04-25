@@ -171,7 +171,7 @@ Our inspiration also stems from our personal experiences as master's students ac
 
 Link to the website
 
-Sketches of initial visualization
+### Sketches of initial visualization
 
 Here are several sketches to explain the main visualizations for the project:
 
@@ -231,7 +231,7 @@ The last visualization illustrates how different skills relate to various indust
 ![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/462d6c42-419f-4ec4-84fb-53fb9351cab5)
 
 
-**Tools:**
+### Tools
 
 d3.js: A JavaScript library for creating dynamic, interactive charts and data visualizations.
 Figma: 
@@ -240,9 +240,9 @@ leaflet: A JavaScript library for creating interactive maps.
 jQuery: A JavaScript library to improve development efficiency and code maintainability.
 Python: Data processing for further data visualization.
 
-**Lectures:**
+### Lectures
 
-**Extra ideas:**
+### Extra ideas
 
 
 ## Milestone 3 (31st May, 5pm)
