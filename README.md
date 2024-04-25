@@ -193,6 +193,7 @@ The pie chart would show segments representing the distribution of benefit types
 ![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/1e1d427f-40cf-47b6-925a-f19bb7c52a23)
 
 3. **Visulization: Job Postings Map**
+
 The third goal of the project is to allow users can zoom in a particular region on the map to explore job postings in that area. Here is how uses to can interact with:
 
 
