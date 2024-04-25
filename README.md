@@ -244,6 +244,9 @@ The last visualization illustrates how different skills relate to various indust
 
 ### Extra ideas
 
+The proposed enhancements for the website include:
+
+1. Real-time Data Visualization: Incorporate updates to the visualization as new job postings are added to LinkedIn, allowing users to see trends and changes in real-time. This will help in tracking the dynamics of job markets across different industries and locations as they evolve.
 
 ## Milestone 3 (31st May, 5pm)
 
