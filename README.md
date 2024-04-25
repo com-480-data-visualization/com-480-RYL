@@ -233,12 +233,12 @@ The last visualization illustrates how different skills relate to various indust
 
 ### Tools
 
-d3.js: A JavaScript library for creating dynamic, interactive charts and data visualizations.
-Figma: 
-Boostrap: A front-end framework for rapid, responsive development of web pages
-leaflet: A JavaScript library for creating interactive maps.
-jQuery: A JavaScript library to improve development efficiency and code maintainability.
-Python: Data processing for further data visualization.
+- d3.js: A JavaScript library for creating dynamic, interactive charts and data visualizations.
+- Figma: A popular design tool widely used for interface design, prototyping, and collaboration.
+- Boostrap: A front-end framework for rapid, responsive development of web pages
+- leaflet: A JavaScript library for creating interactive maps.
+- jQuery: A JavaScript library to improve development efficiency and code maintainability.
+- Python: Data processing for further data visualization.
 
 ### Lectures
 
