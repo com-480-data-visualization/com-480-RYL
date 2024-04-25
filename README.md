@@ -171,6 +171,8 @@ Our inspiration also stems from our personal experiences as master's students ac
 
 Link to the website
 
+Sketches of initial visualization
+
 Here are several sketches to explain the main visualizations for the project:
 
 1. **Visualization 1: Searchable Job Posting Table**
