@@ -231,14 +231,18 @@ A Sankey diagram to illustrate how different skills relate to various industries
 
 - The practical mapping techniques learned in **week 7** will be used to present an interactive map, showing the distribution of job postings across different regions. This will enhance our user interface by providing a spatial analysis of job opportunities.
 
-The lectures on tabular data in **week 12** will be invaluable in manipulating and managing tabular data formats, ensuring that our back-end data handling is as seamless as the front-end experience.
+- The lectures on tabular data in **week 12** will be invaluable in manipulating and managing tabular data formats, ensuring that our back-end data handling is as seamless as the front-end experience.
 
 
 ### Extra ideas
 
-The proposed enhancements for the website include:
+The proposed enhancements to the visualization part of the project may include more creative or challenging approaches:
 
 1. Real-time Data Visualization: Incorporate updates to the visualization as new job postings are added to LinkedIn, allowing users to see trends and changes in real-time. This will help in tracking the dynamics of job markets across different industries and locations as they evolve.
+
+2. Skill gap analysis visualization: Create a visualization that compares the skills required in job postings with the skills listed in the LinkedIn profiles of users who applied for those jobs. This can help identify skill gaps in different industries or specific job roles. The visualization can use heat maps or gap charts to show where demand exceeds supply and vice versa, providing insights for both job seekers looking to upgrade their skills and educational institutions designing curriculum.
+
+3. Predictive trend forecasting: Integrate machine learning models to predict future trends in the job market based on historical data from 2023 job postings. The visualization can show predicted hotspots for job growth, industries expected to expand, and skills likely to be in higher demand. By presenting this data in an interactive area chart, users can more effectively plan their career paths or business strategies.
 
 ## Milestone 3 (31st May, 5pm)
 
