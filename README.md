@@ -171,64 +171,47 @@ Our inspiration also stems from our personal experiences as master's students ac
 
 ### [Website Milestone 2](https://lukast99.github.io/mileston2.github.io/)
 
-### Sketches of initial visualization
+### Visualization
 
-Here are several sketches to explain the main visualizations for the project:
+Here are several sketches of the main visualizations:
 
-1. **Visualization 1: Searchable Job Posting Table**
-
-   The first and core visualization of the project is Searchable Job Posting Table, allowing users to access the table with job postings that match the filters applied. Columns include the job title, company name, location, salary range, and a brief description. Users can click on a job title to get more details, sort the table by any of the column headings, and use a search bar to refine the results within the filtered subset further.
-
-![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/f2142b24-8bd6-44b9-ba95-ba8850cec30c)
-
-2. **Visulization 2: Basic overview of datasets**
-
-Each card in second Figure represents the visualizations for each dataset:
-
-*Posting Card:*
-This card contains a pie chart, which is a common way to represent parts of a whole. Different pie chart segments represent different expected experience levels in LinkedIn job postings. Users can interact with this pie chart by hovering over the segments to get more details such as the exact number or percentage of job postings in each category.
-
-*Company Card:*
-Each bubble in the bubble chart represents one of the top 10 companies, placed on a grid that aligns company names on the y-axis and their respective industries on the x-axis. The size of each bubble appears to correspond to the company's size. Moving the cursor over a bubble enabe users to see a tooltip with more detailed information, such as exact company size, country, and number of employees.
-
-*Job Card:*
-The pie chart would show segments representing the distribution of benefit types, with the size of each segment corresponding to how frequently each benefit is offered in the dataset. When users clicking each segment, the job postings offering that benefit would appear, giving them a quick and clear understanding of the benefits landscape.
+1. **Basic Overview of Dataset**
 
 ![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/610d4da5-df1e-466d-9933-23bb6eca0721)
 
-3. **Visulization 3: Job Postings Map**
+There are 3 visualization cards displaying an overview of the dataset, each card represents some basic visualizations of descriptive analysis for postings, companies, and jobs. For example:
+- Posting: A pie chart showing the distribution of LinkedIn job postings by expected experience level. Users can interact with this pie chart by hovering over the segments to get more details such as the exact number or percentage of job postings in each category.
+- Company: A bubble chart representing the top 10 companies by size across industries. Moving the cursor over a bubble enables users to see a tooltip with more detailed information, such as exact company size, country, and number of employees.
+- Job: A pie chart showing the distribution of job benefit types. When users click each segment, the job postings offering that benefit would appear, giving them a quick and clear understanding of the benefits landscape.
 
-The third goal of the project is to allow users can zoom in a particular region on the map to explore job postings in that area. The following interactions can be imagine:
+2. **Searchable Job Posting Table**
 
-- **Zoom in**
+![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/f2142b24-8bd6-44b9-ba95-ba8850cec30c)
 
-Users can zoom in on the map to see more details. This can reveal more cities, smaller areas, or additional information about job postings.
+A Searchable Job Posting Table allowing users to access the table with job postings that match the filters applied. Columns include the job title, company name, location, salary range, and a brief description. Users can click on a job title to get more details, sort the table by any of the column headings, and use a search bar to refine the results within the filtered subset further.
 
-- **Hover**
-
-Hovering over a hexagon can display a tooltip with more detailed information, such as the exact number of job postings, the most popular industries, or the average salary range for that location.
-
-- **Click**
-
-Clicking on a hexagon will drill down to a more detailed view of job postings in that area or open a sidebar with a list of available jobs, companies posting jobs, and other statistics.
-
-- **Filter**
-
-Users can use the filters in the left panel to refine the data displayed on the map. For example, selecting a specific industry would update the map to show only job postings related to that industry.
+3. **Interactive Job Postings Map**
 
 ![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/6ba457b0-8b92-4f46-ada6-4c435885b1ea)
 
-4. **Visualization 4: Trends in job postings over time**
+An interactive map that users can zoom in on a particular region on the map to explore more information on jobs or companies in this area. Users can choose different aspects they are interested in on the left panel to refine the data displayed on the map. For example, the 'Quantity' field will show the geographical distribution of the number of companies in the map, while clicking ‘Industry’ would update the map to show the location distribution of various industries.
+Several interactions are as follows:
 
-The third visualizaiton focuses on the change in the number of job postings over a period, and each line represents a different skill, industry, or benefit category, showing how demand for these has fluctuated with time. If user clicks on a line, it filters the chart to only show the trend for that skill, industry, or benefit, allowing for a focused view.
+- **Zooming in** a certain area for more details on additional information about job postings.
+- **Hovering over** a hexagon can display a tooltip with more detailed information, such as the exact number of job postings, the most popular industries, or the average salary range for that location.
+- **Clicking on** a hexagon will drill down to a more detailed view of job postings in that area or open a sidebar with a list of available jobs, companies posting jobs, and other statistics.
+
+4. **Trends in Job Postings over Time**
 
 ![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/f9aa242b-21b4-4f32-aae4-36625739653f)
 
-5. **Visualization 5: How different skills relate to various industries and specialties**
+A line chart showcasing the trend in job postings over time, such as the fluctuations in demand for various skills or industries, the rise in remote job opportunities… Users can choose one certain panel to check its changing trend. When hovering over a line, this line would be highlighted and some related information will be shown beside.
 
-The last visualization illustrates how different skills relate to various industries and specialties. As the figure shows, the width of the bands connecting these categories represents the volume from one category to another. For example, a wide band flowing from "Master's" to "Government-State" and then converging on "Nurse" suggests that a significant number of individuals with a Master's degree are employed in the Government-State sector as Nurses. Users could hover over the flows to see additional information, such as the percentage of each of the skills required for a particular industry, what kind of skills come from individuals in a certain position, and in what proportion. There also could be interactive filters that allow users to refine the diagram by skill level, industry sector, or specialty.
+5. **How Different Skills Relate to Various Industries and Specialties**
 
 ![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/462d6c42-419f-4ec4-84fb-53fb9351cab5)
+
+A Sankey diagram to illustrate how different skills relate to various industries and specialties. The width of the bands connecting these categories represents the volume from one category to another. For example, a wide band flowing from skill "Analyst" to industry "Information Technology \& Services" and then converging on specialty "Consulting" suggests that a significant number of people with analyst skill are employed in this industry as consulting. Users could hover over the flows to see additional information, such as the percentage of each of different skills required for a particular industry, what skills are required of employees in a particular position and their corresponding proportions. There also could be interactive filters that allow users to refine the diagram by skill level, industry sector, or specialty.
 
 
 ### Tools
@@ -242,11 +225,11 @@ The last visualization illustrates how different skills relate to various indust
 
 ### Lectures
 
-We will build the foundation of our project using the basic web development skills covered in **weeks 1-3**, including HTML, CSS, and JavaScript.
+- We will build the foundation of our project using the basic web development skills covered in **weeks 1-3**, including HTML, CSS, and JavaScript.
 
-For data visualization, we will make extensive use of the D3.js library introduced in the lectures of **weeks 4-5**. Our project will benefit from D3.js for its ability to create interactive and dynamic visualizations that allow users to explore job market trends and details within our dataset.
+- For data visualization, we will make extensive use of the D3.js library introduced in the lectures of **weeks 4-5**. Our project will benefit from D3.js for its ability to create interactive and dynamic visualizations that allow users to explore job market trends and details within our dataset.
 
-The practical mapping techniques learned in **week 7** will be used to present an interactive map, showing the distribution of job postings across different regions. This will enhance our user interface by providing a spatial analysis of job opportunities.
+- The practical mapping techniques learned in **week 7** will be used to present an interactive map, showing the distribution of job postings across different regions. This will enhance our user interface by providing a spatial analysis of job opportunities.
 
 The lectures on tabular data in **week 12** will be invaluable in manipulating and managing tabular data formats, ensuring that our back-end data handling is as seamless as the front-end experience.
 
