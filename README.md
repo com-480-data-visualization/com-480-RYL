@@ -179,7 +179,7 @@ Here are several sketches to explain the main visualizations for the project:
 
    The first and core visualization of the project is Searchable Job Posting Table, allowing users to access the table with job postings that match the filters applied. Columns include the job title, company name, location, salary range, and a brief description. Users can click on a job title to get more details, sort the table by any of the column headings, and use a search bar to refine the results within the filtered subset further.
 
-   ![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/7a99b94c-c6c3-461d-9863-bc82c3cad3f1)
+![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/f2142b24-8bd6-44b9-ba95-ba8850cec30c)
 
 2. **Visulization 2: Basic overview of datasets**
 
@@ -194,7 +194,7 @@ Each bubble in the bubble chart represents one of the top 10 companies, placed o
 *Job Card:*
 The pie chart would show segments representing the distribution of benefit types, with the size of each segment corresponding to how frequently each benefit is offered in the dataset. When users clicking each segment, the job postings offering that benefit would appear, giving them a quick and clear understanding of the benefits landscape.
 
-![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/1e1d427f-40cf-47b6-925a-f19bb7c52a23)
+![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/610d4da5-df1e-466d-9933-23bb6eca0721)
 
 3. **Visulization 3: Job Postings Map**
 
@@ -222,7 +222,7 @@ Users can use the filters in the left panel to refine the data displayed on the 
 
 The third visualizaiton focuses on the change in the number of job postings over a period, and each line represents a different skill, industry, or benefit category, showing how demand for these has fluctuated with time. If user clicks on a line, it filters the chart to only show the trend for that skill, industry, or benefit, allowing for a focused view.
 
-![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/48236bb1-84ae-4564-9b5e-a6de25899701)
+![image](https://github.com/com-480-data-visualization/com-480-RYL/assets/145647615/f9aa242b-21b4-4f32-aae4-36625739653f)
 
 5. **Visualization 5: How different skills relate to various industries and specialties**
 
