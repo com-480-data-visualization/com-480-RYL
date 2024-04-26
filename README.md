@@ -242,6 +242,14 @@ The last visualization illustrates how different skills relate to various indust
 
 ### Lectures
 
+We will build the foundation of our project using the basic web development skills covered in **weeks 1-3**, including HTML, CSS, and JavaScript.
+
+For data visualization, we will make extensive use of the D3.js library introduced in the lectures of **weeks 4-5**. Our project will benefit from D3.js for its ability to create interactive and dynamic visualizations that allow users to explore job market trends and details within our dataset.
+
+The practical mapping techniques learned in **week 7** will be used to present an interactive map, showing the distribution of job postings across different regions. This will enhance our user interface by providing a spatial analysis of job opportunities.
+
+The lectures on tabular data in **week 12** will be invaluable in manipulating and managing tabular data formats, ensuring that our back-end data handling is as seamless as the front-end experience.
+
 
 ### Extra ideas
 
