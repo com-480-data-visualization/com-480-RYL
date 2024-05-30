@@ -10,6 +10,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+If you also would like to interact with the website to find and view job postings, you will also need to run api.py in Python3.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
