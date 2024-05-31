@@ -6,7 +6,7 @@
 | Renqing Cuomao   | 377052 |
 | Yunlong Dong     | 368659 |
 
-[Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
+[Milestone 1]([https://github.com/LukaSt99/COM-480-Data/tree/main) • [Milestone 2](https://lukast99.github.io/mileston2.github.io/) • [Milestone 3](https://lukast99.github.io/COM-480/)
 
 ## Milestone 1 (29th March, 5pm)
 
@@ -245,7 +245,7 @@ The proposed enhancements to the visualization part of the project may include m
 3. Predictive trend forecasting: Integrate machine learning models to predict future trends in the job market based on historical data from 2023 job postings. The visualization can show predicted hotspots for job growth, industries expected to expand, and skills likely to be in higher demand. By presenting this data in an interactive area chart, users can more effectively plan their career paths or business strategies.
 
 ## Milestone 3 (31st May, 5pm)
-[Website Milestone 3](https://lukast99.github.io/COM-480/)
+### [Website Milestone 3](https://lukast99.github.io/COM-480/)
 **80% of the final grade**
 
 
