@@ -245,9 +245,8 @@ The proposed enhancements to the visualization part of the project may include m
 3. Predictive trend forecasting: Integrate machine learning models to predict future trends in the job market based on historical data from 2023 job postings. The visualization can show predicted hotspots for job growth, industries expected to expand, and skills likely to be in higher demand. By presenting this data in an interactive area chart, users can more effectively plan their career paths or business strategies.
 
 ## Milestone 3 (31st May, 5pm)
-
+[Website Milestone 3](https://lukast99.github.io/COM-480/)
 **80% of the final grade**
-
 
 
 
