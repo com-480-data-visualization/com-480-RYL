@@ -249,9 +249,9 @@ The proposed enhancements to the visualization part of the project may include m
 ### [Process Book Milestone 3](https://github.com/com-480-data-visualization/com-480-RYL/blob/master/Process%20book.pdf)
 
 ## Authors
-- **LLUKA STOJOLLARI**
-- **Yunlong Dong**
-- **Renqing Cuomao**
+- **Lluka Stojollari - Main Website - Data Preproceesing - Process Book - ScreenCast **
+- **Yunlong Dong  - Main Website - Data Preproceesing - Process Book - ScreenCast **
+- **Renqing Cuomao - Job Search Platform **
 - 
 **80% of the final grade**
 
