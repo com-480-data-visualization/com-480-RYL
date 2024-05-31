@@ -1,0 +1,237 @@
+industry,skill,percentage
+Construction,Management,0.1808353808353808
+Construction,Manufacturing,0.1484029484029484
+Construction,Engineering,0.1036855036855036
+Construction,Project Management,0.0997542997542997
+Construction,Information Technology,0.0771498771498771
+Construction,Sales,0.0574938574938574
+Construction,Business Development,0.053071253071253
+Construction,Other,0.0348894348894348
+Construction,Accounting/Auditing,0.0324324324324324
+Construction,Consulting,0.028009828009828
+Construction,Finance,0.0265356265356265
+Construction,Design,0.0265356265356265
+Construction,Administrative,0.0226044226044226
+Construction,Strategy/Planning,0.0167076167076167
+Construction,Human Resources,0.0098280098280098
+Construction,Customer Service,0.0088452088452088
+Construction,Purchasing,0.0083538083538083
+Construction,Marketing,0.0078624078624078
+Construction,Quality Assurance,0.0078624078624078
+Construction,Supply Chain,0.0068796068796068
+Construction,Production,0.0063882063882063
+Construction,General Business,0.0058968058968058
+Construction,Art/Creative,0.0058968058968058
+Construction,Analyst,0.0039312039312039
+Construction,Training,0.0039312039312039
+Construction,Education,0.0029484029484029
+Construction,Product Management,0.0024570024570024
+Construction,Public Relations,0.0024570024570024
+Construction,Legal,0.0019656019656019
+Construction,Science,0.0019656019656019
+Construction,Distribution,0.0019656019656019
+Construction,Writing/Editing,0.0014742014742014
+Construction,Research,0.0009828009828009
+Financial Services,Finance,0.2001710863986313
+Financial Services,Sales,0.166809238665526
+Financial Services,Information Technology,0.1074992871400057
+Financial Services,Business Development,0.0784145993726832
+Financial Services,Accounting/Auditing,0.0772740233818078
+Financial Services,Other,0.0407755916737952
+Financial Services,Engineering,0.0399201596806387
+Financial Services,Analyst,0.0327915597376675
+Financial Services,Marketing,0.0302252637581978
+Financial Services,Management,0.0293698317650413
+Financial Services,Administrative,0.0290846877673225
+Financial Services,Customer Service,0.0236669518106643
+Financial Services,Manufacturing,0.0171086398631308
+Financial Services,Consulting,0.0156829198745366
+Financial Services,Project Management,0.013116623895067
+Financial Services,Human Resources,0.0108354719133162
+Financial Services,Product Management,0.0099800399201596
+Financial Services,Research,0.0096948959224408
+Financial Services,General Business,0.0096948959224408
+Financial Services,Strategy/Planning,0.0091246079270031
+Financial Services,Legal,0.0082691759338465
+Financial Services,Art/Creative,0.0059880239520958
+Financial Services,Design,0.0059880239520958
+Financial Services,Public Relations,0.0057028799543769
+Financial Services,Writing/Editing,0.0051325919589392
+Financial Services,Training,0.0045623039635015
+Financial Services,Education,0.003706871970345
+Financial Services,Quality Assurance,0.0034217279726261
+Financial Services,Advertising,0.0014257199885942
+Financial Services,Health Care Provider,0.0011405759908753
+Financial Services,Production,0.0008554319931565
+Financial Services,Supply Chain,0.0008554319931565
+Financial Services,Distribution,0.0005702879954376
+Financial Services,Science,0.0005702879954376
+Financial Services,Purchasing,0.0005702879954376
+IT Services and IT Consulting,Information Technology,0.3393813206424747
+IT Services and IT Consulting,Engineering,0.1466389054134443
+IT Services and IT Consulting,Sales,0.0904223676383105
+IT Services and IT Consulting,Business Development,0.0706424747174301
+IT Services and IT Consulting,Management,0.030785246876859
+IT Services and IT Consulting,Other,0.0304878048780487
+IT Services and IT Consulting,Project Management,0.0272159428911362
+IT Services and IT Consulting,Marketing,0.0258774538964901
+IT Services and IT Consulting,Manufacturing,0.0227543129089827
+IT Services and IT Consulting,Analyst,0.0221594289113622
+IT Services and IT Consulting,Finance,0.0208209399167162
+IT Services and IT Consulting,Research,0.0172516359309934
+IT Services and IT Consulting,Art/Creative,0.0151695419393218
+IT Services and IT Consulting,Consulting,0.0148720999405116
+IT Services and IT Consulting,Administrative,0.0120464009518143
+IT Services and IT Consulting,Quality Assurance,0.0118976799524092
+IT Services and IT Consulting,Design,0.0114515169541939
+IT Services and IT Consulting,Accounting/Auditing,0.0111540749553837
+IT Services and IT Consulting,Product Management,0.0105591909577632
+IT Services and IT Consulting,Customer Service,0.0104104699583581
+IT Services and IT Consulting,Human Resources,0.0101130279595478
+IT Services and IT Consulting,Writing/Editing,0.0060975609756097
+IT Services and IT Consulting,Supply Chain,0.0056513979773944
+IT Services and IT Consulting,Health Care Provider,0.0055026769779892
+IT Services and IT Consulting,Public Relations,0.005205234979179
+IT Services and IT Consulting,Strategy/Planning,0.0041641879833432
+IT Services and IT Consulting,Legal,0.0040154669839381
+IT Services and IT Consulting,Education,0.0035693039857227
+IT Services and IT Consulting,Advertising,0.0032718619869125
+IT Services and IT Consulting,Distribution,0.0031231409875074
+IT Services and IT Consulting,General Business,0.0023795359904818
+IT Services and IT Consulting,Purchasing,0.0019333729922665
+IT Services and IT Consulting,Training,0.0014872099940511
+IT Services and IT Consulting,Science,0.0011897679952409
+IT Services and IT Consulting,Production,0.0002974419988102
+Retail,Sales,0.2318678241388966
+Retail,Business Development,0.1657798935872304
+Retail,Management,0.1097731727807336
+Retail,Manufacturing,0.0935312237468496
+Retail,Other,0.068888266591991
+Retail,Customer Service,0.059647157658919
+Retail,Information Technology,0.0408849061887426
+Retail,Finance,0.0280033604032483
+Retail,Accounting/Auditing,0.026043125175021
+Retail,Marketing,0.0246429571548585
+Retail,Health Care Provider,0.0193223186782413
+Retail,General Business,0.0184822178661439
+Retail,Art/Creative,0.0145617474096891
+Retail,Engineering,0.0131615793895267
+Retail,Design,0.0123214785774292
+Retail,Human Resources,0.0100812097451694
+Retail,Administrative,0.0084010081209745
+Retail,Project Management,0.0072808737048445
+Retail,Supply Chain,0.0072808737048445
+Retail,Analyst,0.0072808737048445
+Retail,Strategy/Planning,0.0058807056846821
+Retail,Training,0.0050406048725847
+Retail,Education,0.0030803696443573
+Retail,Distribution,0.0028003360403248
+Retail,Quality Assurance,0.0028003360403248
+Retail,Product Management,0.0028003360403248
+Retail,Writing/Editing,0.0019602352282273
+Retail,Public Relations,0.0019602352282273
+Retail,Consulting,0.0019602352282273
+Retail,Advertising,0.0014001680201624
+Retail,Purchasing,0.0014001680201624
+Retail,Research,0.0011201344161299
+Retail,Production,0.0002800336040324
+Retail,Legal,0.0002800336040324
+Software Development,Information Technology,0.2005256241787122
+Software Development,Engineering,0.1624178712220762
+Software Development,Sales,0.1463863337713535
+Software Development,Business Development,0.1250985545335085
+Software Development,Marketing,0.0641261498028909
+Software Development,Management,0.026281208935611
+Software Development,Project Management,0.0249671484888304
+Software Development,Manufacturing,0.019185282522996
+Software Development,Other,0.0189224704336399
+Software Development,Finance,0.0181340341655716
+Software Development,Product Management,0.0176084099868593
+Software Development,Art/Creative,0.0165571616294349
+Software Development,Consulting,0.0165571616294349
+Software Development,Customer Service,0.0134034165571616
+Software Development,Accounting/Auditing,0.0126149802890932
+Software Development,Analyst,0.0113009198423127
+Software Development,Design,0.0105124835742444
+Software Development,Human Resources,0.0102496714848883
+Software Development,Research,0.009724047306176
+Software Development,General Business,0.0089356110381077
+Software Development,Supply Chain,0.007358738501971
+Software Development,Public Relations,0.0070959264126149
+Software Development,Education,0.0070959264126149
+Software Development,Writing/Editing,0.0065703022339027
+Software Development,Quality Assurance,0.0057818659658344
+Software Development,Strategy/Planning,0.0057818659658344
+Software Development,Administrative,0.0057818659658344
+Software Development,Advertising,0.0055190538764783
+Software Development,Distribution,0.0052562417871222
+Software Development,Training,0.0034165571616294
+Software Development,Legal,0.0026281208935611
+Software Development,Science,0.0021024967148488
+Software Development,Purchasing,0.0010512483574244
+Software Development,Health Care Provider,0.0007884362680683
+Software Development,Production,0.0002628120893561
+Staffing and Recruiting,Health Care Provider,0.2359578736208626
+Staffing and Recruiting,Information Technology,0.1496990972918756
+Staffing and Recruiting,Engineering,0.0707121364092276
+Staffing and Recruiting,Management,0.059679037111334
+Staffing and Recruiting,Manufacturing,0.0554162487462387
+Staffing and Recruiting,Sales,0.0529087261785356
+Staffing and Recruiting,Finance,0.0521564694082246
+Staffing and Recruiting,Accounting/Auditing,0.0463891675025075
+Staffing and Recruiting,Other,0.0348545636910732
+Staffing and Recruiting,Business Development,0.0341023069207622
+Staffing and Recruiting,Human Resources,0.0265797392176529
+Staffing and Recruiting,Administrative,0.0245737211634904
+Staffing and Recruiting,Project Management,0.0195586760280842
+Staffing and Recruiting,Analyst,0.0190571715145436
+Staffing and Recruiting,Marketing,0.0170511534603811
+Staffing and Recruiting,Research,0.0162988966900702
+Staffing and Recruiting,Legal,0.0112838515546639
+Staffing and Recruiting,Quality Assurance,0.0082748244734202
+Staffing and Recruiting,Design,0.007271815446339
+Staffing and Recruiting,Consulting,0.0070210631895687
+Staffing and Recruiting,Customer Service,0.0062688064192577
+Staffing and Recruiting,Art/Creative,0.0062688064192577
+Staffing and Recruiting,Training,0.0057673019057171
+Staffing and Recruiting,Education,0.0052657973921765
+Staffing and Recruiting,Writing/Editing,0.0045135406218655
+Staffing and Recruiting,Public Relations,0.0045135406218655
+Staffing and Recruiting,Product Management,0.0037612838515546
+Staffing and Recruiting,General Business,0.0035105315947843
+Staffing and Recruiting,Supply Chain,0.0027582748244734
+Staffing and Recruiting,Purchasing,0.0022567703109327
+Staffing and Recruiting,Production,0.0020060180541624
+Staffing and Recruiting,Strategy/Planning,0.0020060180541624
+Staffing and Recruiting,Science,0.0015045135406218
+Staffing and Recruiting,Advertising,0.0005015045135406
+Staffing and Recruiting,Distribution,0.0002507522567703
+Telecommunications,Other,0.2158415841584158
+Telecommunications,Sales,0.1821782178217821
+Telecommunications,Business Development,0.1485148514851485
+Telecommunications,Information Technology,0.1316831683168317
+Telecommunications,Engineering,0.0732673267326732
+Telecommunications,Management,0.0475247524752475
+Telecommunications,Manufacturing,0.0396039603960396
+Telecommunications,Project Management,0.0247524752475247
+Telecommunications,Marketing,0.0158415841584158
+Telecommunications,Accounting/Auditing,0.0128712871287128
+Telecommunications,Finance,0.0128712871287128
+Telecommunications,Customer Service,0.0108910891089108
+Telecommunications,Analyst,0.0108910891089108
+Telecommunications,Design,0.0089108910891089
+Telecommunications,Legal,0.0089108910891089
+Telecommunications,Human Resources,0.0079207920792079
+Telecommunications,Product Management,0.0079207920792079
+Telecommunications,Strategy/Planning,0.0069306930693069
+Telecommunications,Quality Assurance,0.0059405940594059
+Telecommunications,Research,0.0049504950495049
+Telecommunications,Art/Creative,0.0039603960396039
+Telecommunications,Administrative,0.0039603960396039
+Telecommunications,Public Relations,0.0029702970297029
+Telecommunications,Consulting,0.0029702970297029
+Telecommunications,Writing/Editing,0.0029702970297029
+Telecommunications,General Business,0.0019801980198019
+Telecommunications,Production,0.0009900990099009
+Telecommunications,Supply Chain,0.0009900990099009
+Telecommunications,Purchasing,0.0009900990099009

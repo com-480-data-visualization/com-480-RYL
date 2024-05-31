@@ -1,0 +1,54 @@
+.MapContainer {
+  position: relative;
+}
+
+.InfoBox {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  z-index: 999;
+  border: 1px solid #ccc;
+  max-width: 200px;
+}
+
+.InfoBox-closeBtn {
+  border: none;
+  background-color: #007bff;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.InfoBox-closeBtn:hover {
+  background-color: #0056b3;
+}
+
+.InfoBox-title {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.InfoBox-count {
+  margin-bottom: 5px;
+}
+
+.InfoBox-position {
+  font-size: 0.8em;
+  color: #666;
+}
+
+.InfoBox-closeBtn {
+  border: none;
+  background-color: #007bff;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-top: 10px;
+}

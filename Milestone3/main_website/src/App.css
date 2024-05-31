@@ -1,0 +1,71 @@
+body {
+    font-family: "Arial", sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Hide horizontal overflow */
+    background-image: url('white.jpg'); /* Set background image */
+    background-size: cover; /* Cover the entire viewport */
+    background-repeat: no-repeat; /* Prevent image from repeating */
+    background-attachment: fixed; /* Fixed background */
+}
+/* Style the header */
+header {
+    background-color: #333; /* Dark background color */
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Add hover effect for buttons */
+.navigation button:hover {
+    transform: scale(1.1);
+}
+
+/* Style the main content container */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    margin-bottom: 60px;
+}
+
+/* Style navigation buttons */
+.navigation button {
+    background-color: #0077b5; /* Button background color */
+    color: white;
+    padding: 12px 30px;
+    border: none;
+    border-radius: 20px;
+    font-size: 16px;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.3s, color 0.3s, transform 0.3s ease;
+    margin-bottom: 10px;
+}
+
+/* Style the main content */
+.main-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-y: auto;
+    padding: 20px;
+}
+
+/* Style the visualization container */
+.visualization {
+    border: 2px solid #0077b5; /* Border color */
+    border-radius: 10px;
+    padding: 40px;
+    margin-bottom: 40px;
+    background-color: white; /* Background color */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 80%;
+}
+
+/* Add box shadow on hover */
+.visualization:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
