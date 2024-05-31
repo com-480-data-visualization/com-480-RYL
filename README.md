@@ -246,6 +246,13 @@ The proposed enhancements to the visualization part of the project may include m
 
 ## Milestone 3 (31st May, 5pm)
 ### [Website Milestone 3](https://lukast99.github.io/COM-480/)
+### [Process Book Milestone 3](https://github.com/com-480-data-visualization/com-480-RYL/blob/master/Process%20book.pdf)
+
+## Authors
+- **LLUKA STOJOLLARI**
+- **Yunlong Dong**
+- **Renqing Cuomao**
+- 
 **80% of the final grade**
 
 
