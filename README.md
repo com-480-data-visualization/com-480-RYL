@@ -8,7 +8,6 @@
 
 [Milestone 1]([https://github.com/LukaSt99/COM-480-Data/tree/main) • [Milestone 2](https://lukast99.github.io/mileston2.github.io/) • [Milestone 3](https://lukast99.github.io/COM-480/)
 
-[Website](https://lukast99.github.io/COM-480/)
 
 ### [Website Milestone 3](https://lukast99.github.io/COM-480/)
 ### [Process Book Milestone 3](https://github.com/com-480-data-visualization/com-480-RYL/blob/master/Process%20book.pdf)
