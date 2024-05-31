@@ -10,6 +10,10 @@
 
 [Website](https://lukast99.github.io/COM-480/)
 
+### [Website Milestone 3](https://lukast99.github.io/COM-480/)
+### [Process Book Milestone 3](https://github.com/com-480-data-visualization/com-480-RYL/blob/master/Process%20book.pdf)
+### [Screencast](https://drive.google.com/file/d/1YRnnCG6xH8mAiPbOs7ADwBrZKSR7Ka9K/view?usp=drive_link)
+
 ## Milestone 1 (29th March, 5pm)
 
 **10% of the final grade**
