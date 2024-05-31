@@ -8,6 +8,8 @@
 
 [Milestone 1]([https://github.com/LukaSt99/COM-480-Data/tree/main) • [Milestone 2](https://lukast99.github.io/mileston2.github.io/) • [Milestone 3](https://lukast99.github.io/COM-480/)
 
+Here is the final [website](https://lukast99.github.io/COM-480/)
+
 ## Milestone 1 (29th March, 5pm)
 
 **10% of the final grade**
